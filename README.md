@@ -6,4 +6,4 @@
 
 **-Backend:** Cloudflare Workers(Hono), Typescript, Postgresql Database, Prisma ORM
 
-**-Known Issues:** No password hashing, no route protection
+**-Known Issues:** No password hashing, no route protection, no text editor
